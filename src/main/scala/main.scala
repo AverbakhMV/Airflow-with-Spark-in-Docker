@@ -1,3 +1,5 @@
+// Get data from Oracle table, transform it and load to Greenplum
+
 package ru.filit.connection_test
 
 import org.apache.spark.sql.{SparkSession, DataFrame}
